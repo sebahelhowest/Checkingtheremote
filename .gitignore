@@ -1,0 +1,4 @@
+#temperory files are excluded
+*.tmp
+# temporary folder is excluded
+/temp
